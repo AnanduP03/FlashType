@@ -1,0 +1,18 @@
+.test-letter{
+    font-size: 19px;
+    line-height: 19px;
+    /* font-weight: 600; */
+    font-family:'Roboto Mono',monospace;
+}
+
+.test-letter-correct{
+    color:#E2B714;
+}
+
+.test-letter-incorrect{
+    color:	#7E2A33;
+}
+
+.test-letter-not-attempted{
+    color:#646669;
+}
